@@ -1,0 +1,501 @@
+account_number,customer_id,account_type,balance,account_open_date,account_status,branch_name,opening_channel,kyc_completed,credit_score
+1000,185,nan,33826.76,,Unknown,Villa-Newton,Mobile,Yes,
+1001,3,nan,65633.87,2023-09-21,Closed,Martinez-Mitchell,Branch,Yes,523.0
+1002,290,Current,98888.58,2021-05-30,Active,Mercer Group,Mobile,Yes,621.0
+1003,388,Current,51194.09,2021-09-20,Active,"Elliott, Wright and Figueroa",nan,Yes,662.0
+1004,440,nan,,2020-07-02,Dormant,Long-Romero,nan,Y,771.0
+1005,476,nan,37938.13,2022-02-17,Closed,"Phillips, Monroe and Jones",nan,Y,402.0
+1006,425,Loan,88772.59,2023-06-21,Unknown,Castro-Jones,Online,No,596.0
+1007,196,Current,96702.95,2021-09-01,Closed,"Stewart, Garcia and Mccarty",Branch,Yes,352.0
+1008,274,Loan,39279.3,2022-01-13,Closed,Hess LLC,nan,Yes,714.0
+1009,189,nan,91956.92,2024-11-08,Unknown,Brown PLC,Mobile,N,603.0
+1010,378,nan,90900.76,2025-11-06,Active,"Joseph, Thomas and Wilson",Mobile,Yes,648.0
+1011,313,Current,32494.29,2020-02-21,Closed,Gilbert PLC,nan,No,855.0
+1012,322,Loan,58568.32,2021-08-13,Closed,Smith PLC,Online,Yes,710.0
+1013,74,nan,27972.12,2024-08-11,Dormant,"Vazquez, Hughes and Haas",Mobile,No,392.0
+1014,442,Loan,43248.28,2023-03-03,Unknown,"Henderson, Harris and Norris",Mobile,No,779.0
+1005,121,Savings,72465.42,2024-05-04,Closed,Lopez-Walker,nan,No,766.0
+1016,365,Loan,33660.28,2025-03-02,Dormant,Edwards-Anderson,Branch,N,808.0
+1017,449,Savings,8799.33,2024-07-03,Closed,Haney Inc,Mobile,Yes,323.0
+1018,362,Savings,36751.59,2025-05-29,Unknown,"Roberson, Porter and Bishop",Online,No,737.0
+1019,108,Loan,77578.31,2021-03-14,Unknown,Johnson-Mason,Mobile,Y,841.0
+1020,352,Current,24987.21,2021-02-15,Dormant,Novak Ltd,Online,Y,412.0
+1021,219,Current,64723.8,2020-01-24,Closed,Wells-Nichols,Online,Y,825.0
+1022,152,Savings,37102.23,2025-09-07,Unknown,"Cruz, Parker and Austin",Mobile,Y,637.0
+1023,199,Loan,9184.02,2022-01-25,Closed,Calderon Ltd,Mobile,N,618.0
+1024,245,Loan,31058.88,2025-01-25,Active,"Juarez, Lloyd and Simpson",nan,No,714.0
+1025,236,Savings,37160.26,2026-01-03,Unknown,Brown-Sanders,Branch,Yes,893.0
+1026,145,Current,73729.86,2024-10-02,Active,Adams Inc,nan,N,721.0
+1027,363,Current,42661.96,2024-10-30,Closed,Cowan-Hudson,Mobile,Yes,655.0
+1028,166,Current,93466.02,2022-06-14,Active,Curry-Stevens,Branch,Y,583.0
+1029,204,Loan,65769.7,2021-07-28,Dormant,"Soto, Alvarez and Lane",nan,No,576.0
+1030,18,nan,36433.44,2023-12-21,Dormant,Moreno Group,Online,N,732.0
+1031,121,Current,32299.42,2021-09-06,Closed,"Carter, Woods and Daniel",Mobile,No,513.0
+1032,377,Current,71084.97,2021-08-18,Active,Gomez-Bishop,nan,N,633.0
+1033,239,Loan,65521.11,2024-09-26,Closed,"Robinson, Jones and Jenkins",nan,No,471.0
+1034,385,Loan,3190.31,2021-09-23,Active,Rice-Luna,Mobile,N,453.0
+1035,236,Loan,24942.36,,Unknown,Johnson Group,Mobile,Yes,766.0
+1036,418,Savings,75322.67,2021-07-23,Dormant,Green Inc,nan,Y,393.0
+1037,329,Loan,33419.64,2021-01-13,Closed,Smith-Hunter,Branch,N,704.0
+1038,177,Current,12724.25,2020-04-30,Closed,Hill-Haynes,Branch,Yes,354.0
+1039,172,Loan,13745.1,2022-08-29,Dormant,"Acosta, Anderson and Brown",Online,Yes,389.0
+1040,326,nan,94724.61,2022-05-22,Unknown,Robinson LLC,Mobile,Yes,503.0
+1041,398,nan,75175.36,2025-06-23,Active,Rojas-Avery,Branch,Yes,662.0
+1042,213,Savings,73930.14,2022-08-26,Unknown,Horton Inc,nan,Y,691.0
+1043,374,Current,36055.59,2025-12-14,Active,Arroyo-Lane,Online,No,855.0
+1044,418,Savings,45275.63,2023-03-22,Closed,"Ford, Fernandez and Gallagher",nan,No,885.0
+1045,316,Loan,23203.86,2022-12-28,Closed,Rivera-Williams,Mobile,N,658.0
+1046,86,nan,79078.1,2021-05-12,Active,"Baxter, Jenkins and Cruz",Online,No,505.0
+1047,270,Current,45681.61,2021-01-15,Unknown,Spears-Myers,Branch,No,306.0
+1048,403,Current,89733.8,2021-08-04,Closed,Baker-Sanders,Online,N,608.0
+1049,58,Current,36284.54,2020-07-25,Dormant,Fitzpatrick-Martinez,nan,N,585.0
+1050,158,Current,67738.93,2025-01-29,Closed,Weiss-Brown,Branch,Y,
+1051,319,Savings,50507.51,2022-10-31,Active,Gray-Sharp,Mobile,Yes,519.0
+1052,56,Loan,31003.32,2021-12-08,Closed,Carson Ltd,Mobile,Yes,647.0
+1053,153,nan,33745.4,2023-01-22,Unknown,Hicks-Parker,nan,N,631.0
+1054,398,nan,16489.12,2024-01-12,Unknown,"Long, Ramirez and Wallace",Online,Yes,783.0
+1055,14,Current,27916.78,2020-10-05,Dormant,"Melendez, Meyers and Mcmillan",nan,Y,730.0
+1056,273,Loan,37239.77,2023-01-02,Closed,Wright Group,Online,No,434.0
+1057,48,Loan,36514.57,2025-04-28,Active,Blackwell-Mccormick,Mobile,N,489.0
+1058,94,Current,37534.91,2024-02-09,Closed,Mendoza Group,Online,Yes,321.0
+1059,285,nan,61744.21,2021-01-04,Active,Castro-Church,Mobile,N,831.0
+1060,285,Savings,37685.39,2025-01-31,Unknown,"Daugherty, Costa and Garcia",Mobile,No,424.0
+1061,188,Savings,17927.51,2021-03-19,Dormant,"Ford, Thompson and Zamora",Mobile,Yes,464.0
+1062,59,Loan,62180.79,2021-05-01,Closed,Jones Group,Online,No,828.0
+1063,320,Current,69055.95,2023-12-06,Dormant,"Owens, Miles and Williams",Branch,Y,826.0
+1064,262,Current,80996.21,2020-07-31,Active,Lewis-Knight,Mobile,No,566.0
+1065,363,Loan,46604.64,2023-01-20,Dormant,"Carlson, Turner and Smith",Online,Yes,545.0
+1066,498,nan,81852.58,2025-12-18,Dormant,"Riggs, Williams and Chavez",nan,Yes,429.0
+1067,345,Current,80467.9,2024-04-30,Closed,Fields-Horn,nan,Yes,823.0
+1068,298,nan,8496.72,2023-04-26,Active,Hall-Hughes,nan,Y,640.0
+1069,51,Current,42919.71,2022-03-25,Active,Vargas PLC,Online,Yes,392.0
+1070,22,Savings,94079.92,,Dormant,"Santiago, Robles and Wyatt",nan,Yes,896.0
+1071,4,Loan,73830.68,2023-03-31,Closed,"Anthony, Phillips and Elliott",Mobile,Yes,448.0
+1072,23,Current,11010.32,2020-12-12,Unknown,Young PLC,Online,No,518.0
+1073,466,Savings,67075.79,2025-05-22,Unknown,Johnson PLC,Mobile,Y,312.0
+1074,427,Savings,43858.91,2025-05-21,Closed,Brown-Miller,Mobile,No,867.0
+1075,277,Loan,90545.89,2020-07-16,Closed,"Brown, Gomez and Henderson",Branch,No,857.0
+1076,159,Savings,14793.45,2022-02-21,Dormant,"Williams, Ramos and Barber",nan,No,782.0
+1077,21,Loan,39270.3,2021-01-24,Active,Obrien-Reyes,Mobile,N,584.0
+1078,120,Loan,86130.43,2022-06-09,Unknown,"Jones, Chavez and Hardin",nan,N,365.0
+1079,279,Loan,27535.21,2023-11-15,Unknown,Smith-Pierce,Branch,No,827.0
+1080,440,Current,,2020-03-17,Unknown,Davis PLC,Online,No,450.0
+1081,78,Savings,95271.28,2024-07-05,Active,Wright-Padilla,nan,Yes,877.0
+1082,108,Savings,88291.85,2020-08-06,Active,Cooper PLC,Online,N,828.0
+1083,49,Savings,,2024-03-19,Unknown,"Baker, Campbell and Hernandez",Mobile,Yes,673.0
+1084,316,nan,19772.83,2023-09-12,Unknown,Prince Ltd,Branch,No,838.0
+1085,283,Current,14120.33,2022-05-07,Dormant,Finley-Sutton,nan,Y,531.0
+1086,453,Current,16739.25,2022-12-20,Active,Richards and Sons,nan,Yes,716.0
+1087,21,Current,66573.61,2020-06-27,Active,"Williams, Evans and White",Branch,N,667.0
+1088,337,Savings,60016.67,2024-11-12,Closed,"Fox, Robinson and Welch",nan,N,871.0
+1089,334,Loan,9410.67,2021-03-26,Active,Mitchell-Roach,Mobile,No,887.0
+1090,478,Loan,96363.94,2023-11-10,Active,Williams Ltd,Branch,No,607.0
+1091,60,Loan,69030.54,2023-10-21,Active,Chapman-Villarreal,Online,Y,899.0
+1092,307,Current,90171.5,2020-05-10,Dormant,Hess-Turner,Online,N,716.0
+1093,73,Savings,98738.41,2024-02-12,Unknown,"Wilson, Martin and Wright",Online,No,844.0
+1094,303,Loan,12880.37,2025-06-20,Dormant,James Ltd,Branch,Y,372.0
+1095,371,Savings,21769.61,2022-06-05,Active,Wang PLC,Mobile,Yes,321.0
+1096,448,Current,53355.66,2020-01-28,Dormant,"Jordan, Weaver and Martinez",Online,N,876.0
+1097,422,nan,85471.31,2025-04-22,Dormant,Daniels Inc,Online,N,508.0
+1098,369,Savings,80154.93,2025-10-28,Unknown,Walker PLC,Online,N,856.0
+1099,319,Loan,90922.34,2022-07-20,Dormant,"Potter, Keith and Garrett",Branch,No,774.0
+1100,249,Current,79498.17,2021-03-23,Closed,Simon PLC,nan,Y,
+1101,44,Savings,14223.96,2022-11-05,Active,Hawkins-Burton,Branch,Y,542.0
+1102,196,Current,93667.41,2025-07-18,Unknown,Vargas-Smith,Online,Y,357.0
+1103,225,Loan,88569.16,2021-04-19,Unknown,"Blackburn, Flores and Hanna",Branch,Yes,423.0
+1104,157,Savings,19035.67,2021-10-15,Unknown,Peterson Inc,Branch,No,609.0
+1105,217,Savings,94690.11,,Active,Buck and Sons,nan,Yes,598.0
+1106,0,Loan,54007.74,2025-08-18,Dormant,"Brown, Curtis and Sandoval",Mobile,No,491.0
+1107,393,Loan,3561.75,2020-05-21,Closed,Matthews Group,Online,Y,510.0
+1108,143,nan,35018.05,2020-09-13,Closed,"Ortiz, Martinez and Martinez",Mobile,Y,437.0
+1109,445,Savings,40219.19,2025-01-04,Dormant,Martin-Johnson,Branch,N,594.0
+1110,154,Savings,77470.57,2022-04-29,Unknown,Lee-Reed,nan,Y,855.0
+1111,398,Current,84703.32,2026-02-17,Dormant,Singleton Inc,Mobile,Yes,668.0
+1112,371,Loan,33913.07,2022-11-09,Closed,Freeman and Sons,Mobile,Y,611.0
+1113,450,Loan,31383.56,2023-03-29,Dormant,Leonard-Myers,Online,N,884.0
+1114,104,Savings,92610.65,2023-03-11,Active,Robinson-Mullen,Online,Yes,823.0
+1115,244,Current,62097.15,2022-12-15,Dormant,Vincent Group,nan,No,735.0
+1116,309,Savings,60998.44,2020-03-31,Unknown,Alexander Inc,nan,Y,379.0
+1117,55,Savings,66627.77,2022-09-12,Active,"Payne, Brock and Campos",nan,Yes,888.0
+1118,194,Loan,82867.73,2025-10-18,Unknown,Jones Group,Mobile,Yes,416.0
+1119,388,Current,21447.58,2021-05-31,Closed,Wright-Baker,Online,No,762.0
+1120,449,Current,1657.04,2022-04-20,Unknown,"Werner, Woodward and Sutton",Online,Yes,641.0
+1121,403,Savings,88864.52,2023-01-13,Unknown,"Castro, Davis and Hayes",Online,No,691.0
+1122,160,Loan,69259.16,2024-07-06,Closed,Black-Smith,nan,Yes,573.0
+1123,45,nan,35240.71,2023-09-05,Unknown,Rangel Inc,Branch,Y,616.0
+1124,343,nan,64510.32,2021-11-13,Dormant,"Baker, Allen and Simpson",Online,Yes,751.0
+1125,112,Loan,14393.95,2025-01-15,Dormant,"Ellis, Lee and Campbell",nan,No,534.0
+1126,361,Current,55172.9,2023-10-18,Active,Cameron-Flynn,Online,No,822.0
+1127,170,Current,18415.56,2025-04-06,Dormant,"Reid, Tran and Parker",Online,No,738.0
+1128,168,Savings,84205.57,2022-12-24,Closed,Gray Group,Mobile,Yes,685.0
+1129,276,Current,33716.72,2023-10-01,Active,Miller Inc,Mobile,N,513.0
+1130,277,Savings,93071.44,2023-07-09,Dormant,Mooney-Patel,Online,No,890.0
+1131,320,nan,55016.12,2026-01-08,Active,Patterson Inc,Branch,Yes,434.0
+1132,291,Current,48660.96,2021-04-19,Unknown,Griffin-Nelson,Branch,Yes,696.0
+1133,129,Current,,2022-11-11,Active,"Anderson, Edwards and Coleman",Online,N,310.0
+1134,50,Savings,88728.99,2024-05-08,Unknown,Murphy and Sons,Online,N,873.0
+1135,445,Savings,81881.74,2023-04-10,Active,"Jacobson, Huang and David",Online,Yes,323.0
+1136,229,Current,22383.8,2020-01-19,Closed,Simon Inc,Branch,No,830.0
+1137,351,Loan,26995.85,2025-04-04,Dormant,Conley Inc,Mobile,Yes,702.0
+1138,255,Current,20646.82,2022-03-16,Active,Hill and Sons,Online,Yes,401.0
+1139,204,nan,28967.6,2021-01-02,Active,"Goodman, Wolfe and Page",Online,N,381.0
+1140,104,Current,13339.56,,Closed,Benitez-Davis,Online,Y,890.0
+1141,366,Loan,89780.01,2026-01-24,Active,Patton-Briggs,Mobile,N,397.0
+1142,22,Savings,,2022-12-23,Active,Green-Atkins,Online,Yes,628.0
+1143,276,Loan,81282.01,2022-03-28,Active,"Woods, Watson and Wiley",Branch,Yes,376.0
+1144,342,nan,60063.51,2023-03-12,Closed,George Group,Branch,Yes,563.0
+1145,421,Current,85507.3,2025-03-12,Closed,Howell Inc,Branch,No,834.0
+1146,184,Loan,49109.87,2021-05-18,Closed,"Charles, Hardy and Frazier",Mobile,N,543.0
+1147,270,Loan,57842.09,2023-01-10,Unknown,Gates and Sons,Mobile,No,872.0
+1148,498,Savings,,2025-04-10,Dormant,Mathews-Edwards,nan,Yes,568.0
+1149,5,nan,30308.0,2020-04-10,Dormant,"Patterson, Velez and Mercer",nan,Yes,369.0
+1150,481,Savings,78098.37,2024-05-22,Dormant,"Burke, Thomas and Lewis",Branch,No,
+1151,269,nan,6473.97,2024-12-06,Closed,Martinez-Johnson,Online,No,325.0
+1152,251,Savings,52740.02,2023-07-18,Dormant,Hall-Reese,Mobile,Yes,404.0
+1153,193,Savings,42576.28,2023-07-25,Closed,"Dorsey, Erickson and Gomez",nan,No,550.0
+1154,318,nan,96896.08,2025-08-20,Unknown,Roberts and Sons,nan,N,462.0
+1155,99,Loan,92401.91,2020-05-06,Closed,Cooley-Perez,Online,N,850.0
+1156,479,nan,84829.52,2025-09-13,Closed,"Elliott, Scott and Jones",Mobile,N,597.0
+1157,452,Loan,82359.5,2023-11-25,Active,Peters LLC,Online,Y,365.0
+1158,493,Loan,15954.66,2023-09-06,Active,"Morales, Stone and Sanford",Branch,Y,897.0
+1159,4,Loan,52919.29,2021-07-17,Unknown,Osborne Inc,nan,Y,811.0
+1160,109,Savings,7350.73,2021-01-11,Closed,"Jones, Rogers and Wolfe",Branch,Y,713.0
+1161,189,Savings,77701.07,2021-09-28,Unknown,Sandoval Ltd,nan,Yes,533.0
+1162,99,Savings,62719.6,2024-06-11,Unknown,Guerrero-Miller,Branch,Yes,453.0
+1163,267,Loan,8354.77,2020-02-29,Unknown,Gardner PLC,Mobile,No,333.0
+1164,51,Current,,2025-12-19,Active,Davis and Sons,nan,Y,780.0
+1165,303,Current,96348.31,2021-07-05,Closed,Smith-Kent,Branch,Yes,558.0
+1166,213,Loan,21840.85,2024-06-18,Closed,Smith Inc,Mobile,No,634.0
+1167,419,Savings,80383.36,2023-09-12,Dormant,Goodwin Inc,Branch,No,491.0
+1168,243,Loan,33956.68,2024-11-16,Dormant,Stewart-Roberts,Online,Yes,430.0
+1169,37,Savings,10078.31,2021-08-26,Active,Dominguez Inc,Online,No,877.0
+1170,170,Current,39451.28,2023-12-13,Dormant,"Jones, Robinson and Woods",Online,N,619.0
+1171,94,nan,70806.46,2022-12-23,Unknown,"Owens, Huang and Williams",nan,No,601.0
+1172,39,Savings,67895.0,2020-07-01,Closed,"Hamilton, Martin and Burns",nan,Y,329.0
+1173,145,nan,69935.52,2023-04-19,Closed,Lewis-Lawrence,Mobile,No,577.0
+1174,211,Loan,53092.87,2021-03-04,Active,Martin Group,Branch,Yes,442.0
+1175,61,Current,56847.46,,Dormant,Chapman-Hall,Online,No,369.0
+1176,31,Current,86879.9,2025-08-01,Dormant,Morales Ltd,Online,Y,452.0
+1177,395,Current,40086.25,2022-07-16,Dormant,"Gonzales, Mckenzie and Crawford",Branch,Y,661.0
+1178,227,Savings,97240.13,2023-04-10,Unknown,Rhodes-Diaz,Branch,Yes,895.0
+1179,177,nan,4586.24,2021-01-21,Dormant,Golden LLC,nan,No,748.0
+1180,406,nan,65769.83,2025-09-14,Dormant,Moon Ltd,nan,Yes,546.0
+1181,455,Current,45956.12,2022-04-10,Closed,Haas and Sons,Online,Y,587.0
+1182,186,Loan,68143.92,2026-02-15,Closed,Pratt Group,Branch,Yes,641.0
+1183,89,Savings,98836.99,2024-03-28,Unknown,"Davis, Keller and Miller",Branch,Yes,676.0
+1184,211,Savings,7559.06,2025-12-23,Unknown,Davila and Sons,Mobile,N,851.0
+1185,491,nan,8476.41,2025-07-31,Closed,Martin Group,Online,Yes,784.0
+1186,298,nan,42993.37,2021-05-13,Active,Long-Dixon,Online,Y,434.0
+1187,370,Savings,41976.63,2024-09-08,Closed,Ramirez-Ortiz,Mobile,Yes,654.0
+1188,268,Savings,91747.53,2022-02-04,Closed,Lewis PLC,Mobile,Yes,579.0
+1189,197,Loan,79604.13,2024-09-06,Closed,"Martin, Howard and Andrews",Branch,N,395.0
+1190,67,nan,30056.53,2021-09-13,Unknown,Bowen and Sons,nan,Y,524.0
+1191,264,Current,23390.1,2025-08-09,Dormant,"Franklin, Martin and Estrada",Branch,Yes,796.0
+1192,215,Loan,49819.29,2021-02-20,Unknown,Evans-Watson,nan,N,774.0
+1193,267,Loan,65916.77,2024-03-17,Active,Bell PLC,Mobile,Y,337.0
+1194,353,nan,5252.31,2022-06-22,Closed,"Howell, Butler and Nichols",Mobile,N,608.0
+1195,409,Current,21781.36,2020-01-07,Active,Miller Ltd,nan,Yes,433.0
+1196,462,nan,,2021-05-30,Closed,Johnson LLC,nan,Y,745.0
+1197,355,Loan,1551.65,2020-05-12,Active,Miller Group,Mobile,No,405.0
+1198,254,Current,51879.76,2020-12-05,Unknown,Rodriguez-Hancock,nan,N,634.0
+1199,165,nan,91316.73,2025-09-23,Closed,Lowe Inc,Branch,No,824.0
+1200,3,Current,24375.27,2021-10-26,Dormant,Dixon-Sloan,nan,No,
+1201,456,Loan,19157.32,2023-01-31,Active,"Scott, Foley and Hansen",Branch,Yes,861.0
+1202,471,Loan,98410.78,2025-07-07,Closed,Boyd Group,Online,N,800.0
+1203,357,Savings,10304.95,2024-08-30,Unknown,"Brown, Barnes and Brooks",Online,No,662.0
+1204,374,nan,28399.75,2025-07-09,Active,"Harrison, Watkins and Howard",nan,Yes,862.0
+1205,330,Savings,12121.6,2023-07-03,Closed,Gomez Ltd,Online,N,729.0
+1206,491,nan,42471.62,2024-01-03,Closed,Stewart Inc,Branch,No,707.0
+1207,16,Savings,90219.2,2023-04-19,Dormant,Williams LLC,Branch,No,761.0
+1208,362,Savings,42654.0,2023-05-23,Dormant,Conner PLC,Branch,No,524.0
+1209,378,Loan,73839.74,2024-07-22,Dormant,"Roberts, Branch and Walker",Mobile,No,574.0
+1210,235,Loan,26211.33,,Unknown,"Miles, Davidson and Kline",nan,No,643.0
+1211,387,nan,11172.44,2025-09-04,Closed,Gamble PLC,Branch,N,682.0
+1212,355,Savings,,2024-04-20,Dormant,Harper-Alvarado,nan,Yes,400.0
+1213,5,Current,56251.99,2024-05-25,Dormant,"Powell, Mills and Clark",Branch,Yes,366.0
+1214,24,Loan,12905.65,2024-04-01,Unknown,Anderson-Ruiz,nan,Yes,798.0
+1215,162,Loan,49751.68,2024-03-18,Unknown,Williams-Sullivan,Online,N,750.0
+1216,160,Loan,28622.75,2023-04-22,Closed,Davis-Ray,Branch,Y,795.0
+1217,94,Current,57845.4,2021-03-12,Unknown,"Lopez, Reed and Byrd",Online,N,414.0
+1218,267,Loan,10512.63,2025-01-24,Active,Parsons LLC,Mobile,N,567.0
+1219,100,Loan,61547.41,2024-02-18,Active,"Brown, Sparks and Jackson",nan,No,863.0
+1220,453,Loan,40206.75,2023-04-25,Dormant,"Caldwell, Diaz and Macdonald",Mobile,No,556.0
+1221,160,Loan,17932.01,2025-01-02,Active,Alvarez-Lee,Branch,Yes,592.0
+1222,380,nan,37636.52,2024-07-22,Dormant,Ortiz Group,Mobile,N,747.0
+1223,462,nan,84743.05,2024-10-27,Active,Dougherty PLC,Mobile,Yes,639.0
+1224,390,Current,85285.56,2022-06-11,Closed,Johnson-Parrish,nan,N,583.0
+1225,494,Loan,,2024-10-01,Closed,Miller-Hickman,Mobile,Y,547.0
+1226,403,Savings,86105.6,2022-10-10,Dormant,Russell Inc,Mobile,Y,538.0
+1227,443,nan,,2020-11-07,Dormant,"Nelson, Hernandez and Taylor",Mobile,N,757.0
+1228,68,Loan,15605.3,2024-08-31,Dormant,Thompson and Sons,Branch,No,873.0
+1229,18,Current,74980.26,2022-08-30,Active,Williams Ltd,Branch,N,382.0
+1230,310,Loan,8274.27,2023-08-27,Unknown,"Wagner, Long and Henderson",Mobile,Yes,779.0
+1231,9,Loan,51280.01,2024-07-07,Active,Gordon PLC,Online,No,547.0
+1232,348,nan,92083.36,2024-04-14,Closed,Kim PLC,Branch,N,450.0
+1233,367,Savings,7868.18,2023-05-13,Active,Jackson LLC,Online,Yes,404.0
+1234,359,Loan,73952.01,2024-02-13,Active,Steele Group,Online,N,681.0
+1235,147,Current,96369.24,2022-09-14,Active,"Stanton, Hughes and Johnson",Branch,N,654.0
+1236,179,Loan,91055.22,2020-12-03,Closed,Murphy-Stokes,Online,Yes,881.0
+1237,318,Current,94008.26,2021-10-13,Unknown,Walton-Johnson,Mobile,Y,468.0
+1238,78,Loan,89599.48,2025-08-05,Unknown,Bass-Kemp,nan,N,899.0
+1239,44,Savings,41977.55,2023-09-10,Unknown,"Rogers, Mcdonald and Castillo",Online,Yes,725.0
+1240,423,Savings,,2024-05-27,Closed,"Grimes, Larsen and Winters",Online,Yes,471.0
+1241,324,Loan,93604.5,2020-01-12,Unknown,Clark-Adams,Mobile,Y,476.0
+1242,419,Loan,14674.55,2022-02-06,Active,"Burns, Jimenez and Gomez",Mobile,Y,492.0
+1243,33,nan,61619.41,2026-01-22,Closed,"Owens, Green and Ward",Online,N,607.0
+1244,14,Current,18080.38,2022-06-17,Unknown,Mullen-George,Mobile,N,760.0
+1245,213,Current,43369.75,,Unknown,"Grant, Conrad and Brown",Mobile,Yes,894.0
+1246,405,nan,90744.69,2020-06-16,Closed,Maddox Ltd,Online,Y,837.0
+1247,70,Current,36075.59,2025-04-30,Active,"Coleman, Stewart and Grimes",nan,N,758.0
+1248,437,Current,24837.93,2021-05-14,Active,"Weber, Elliott and Hatfield",Mobile,No,592.0
+1249,463,Loan,14848.22,2025-07-30,Unknown,"Mccall, Brown and Clark",Online,Y,380.0
+1250,52,Savings,91850.92,2023-06-01,Unknown,"Johnson, Johnson and Cook",nan,Yes,
+1251,318,Current,89021.52,2020-01-31,Closed,"Gonzalez, Harris and Cruz",Branch,Yes,880.0
+1252,14,Current,22933.65,2022-06-25,Closed,English-Knight,Online,No,328.0
+1253,172,Loan,82183.53,2023-04-27,Unknown,Brown Inc,Mobile,Y,415.0
+1254,471,Savings,1190.46,2022-06-15,Unknown,"Shannon, Hernandez and Perez",nan,Yes,899.0
+1255,220,Loan,11510.14,2022-10-27,Unknown,Powers-Woods,Mobile,No,793.0
+1256,177,Current,37203.47,2025-08-22,Closed,Anderson-Davis,Branch,Y,797.0
+1257,200,nan,16268.99,2025-08-11,Closed,Day LLC,Mobile,N,360.0
+1258,195,Savings,10158.7,2023-06-04,Unknown,Hicks Group,Mobile,Y,778.0
+1259,375,Loan,92734.76,2020-01-31,Closed,"Kennedy, Smith and Andrews",nan,N,566.0
+1260,41,Savings,24876.35,2022-08-13,Active,Olsen-Allen,Branch,Yes,694.0
+1261,131,Savings,90482.81,2022-08-17,Unknown,Martinez LLC,Branch,Yes,534.0
+1262,313,nan,38311.44,2020-08-24,Dormant,"Gonzalez, Daniels and Rios",nan,Yes,564.0
+1263,396,nan,38689.2,2020-02-05,Active,"Oneill, Knight and Little",Branch,Y,869.0
+1264,99,Savings,14573.47,2023-06-18,Closed,Chavez and Sons,Branch,N,416.0
+1265,318,Loan,58560.93,2025-08-03,Dormant,"Ford, Williams and Simmons",Branch,Y,360.0
+1266,227,Current,,2021-12-04,Closed,"Williams, Cox and Mitchell",Mobile,Yes,619.0
+1267,156,Current,94604.4,2020-01-17,Unknown,Reynolds-Mcgee,Branch,N,314.0
+1268,82,nan,72927.66,2023-07-02,Closed,Ware-Jensen,Online,N,314.0
+1269,186,Loan,27821.27,2020-05-04,Closed,Hopkins-Henry,Branch,Y,325.0
+1270,58,nan,40279.86,2022-03-11,Dormant,Browning-Wagner,Online,Y,761.0
+1271,130,nan,1079.64,2022-05-06,Unknown,Watson PLC,Branch,N,463.0
+1272,315,Loan,76285.83,2025-06-30,Unknown,"Johnson, Hart and Whitney",Mobile,Y,549.0
+1273,100,Savings,2161.98,2023-12-09,Active,"Moore, Snow and Winters",nan,N,666.0
+1274,25,Current,15641.4,2020-09-03,Dormant,White PLC,Online,No,753.0
+1275,239,nan,15725.14,2021-06-16,Unknown,"Diaz, Tanner and Foster",Mobile,N,489.0
+1276,174,Current,59901.03,2025-12-29,Unknown,Williams Ltd,Branch,Yes,830.0
+1277,454,Savings,92475.26,2025-05-05,Active,Palmer and Sons,Mobile,N,309.0
+1278,51,nan,94628.35,2020-06-07,Dormant,"Prince, Aguirre and Rose",Branch,No,385.0
+1279,484,Current,26528.1,2020-08-03,Dormant,Kim Group,Branch,N,323.0
+1280,223,Current,,,Dormant,Warren Ltd,nan,No,742.0
+1281,188,Savings,52033.16,2021-12-07,Active,"Morgan, Webb and Ray",Mobile,Yes,618.0
+1282,472,Savings,64743.44,2020-07-19,Dormant,"Payne, Cox and Michael",Online,Yes,431.0
+1283,382,Loan,32286.72,2020-09-12,Active,Nolan-Richardson,nan,N,642.0
+1284,462,Current,99590.35,2024-09-28,Unknown,Shaw Inc,Branch,N,303.0
+1285,471,Loan,28784.21,2023-12-17,Unknown,Hill-Gomez,Branch,Yes,438.0
+1286,106,Savings,71984.23,2023-11-19,Active,"Carlson, Gonzalez and Bradford",Online,N,670.0
+1287,101,Current,42321.44,2023-04-12,Dormant,Wilkins Inc,nan,N,408.0
+1288,165,Loan,97928.35,2024-08-21,Dormant,Bailey Ltd,Online,Yes,765.0
+1289,375,Loan,655.8,2025-03-13,Dormant,"Schwartz, Ramos and Smith",Mobile,Y,759.0
+1290,213,Current,28896.4,2023-12-22,Closed,"Walker, Schmidt and Thornton",Branch,No,676.0
+1291,117,Loan,,2022-08-25,Closed,Austin-Boyer,Mobile,No,518.0
+1292,40,Savings,61318.84,2022-09-24,Active,"Stevens, Lawrence and Moore",nan,No,818.0
+1293,427,Loan,43725.7,2020-08-23,Closed,Collins and Sons,Mobile,No,548.0
+1294,133,Current,10387.68,2022-07-09,Active,Schmidt-Clark,Mobile,No,307.0
+1295,81,Savings,71023.63,2021-12-22,Unknown,Walker-Ray,nan,Yes,462.0
+1296,14,nan,38791.96,2023-04-24,Closed,"Howard, Thompson and Patterson",Mobile,N,415.0
+1297,264,Savings,96826.19,2023-12-05,Active,"Hall, Thompson and Stanley",nan,No,539.0
+1298,373,Savings,89198.07,2023-09-14,Dormant,Holt-Blair,Branch,Yes,372.0
+1299,399,Loan,32657.2,2022-11-20,Closed,Allen-Garcia,Online,No,886.0
+1300,137,nan,85422.83,2021-03-05,Closed,Rivera-Marsh,Mobile,Yes,
+1301,472,Savings,17950.8,2021-09-20,Unknown,"Stewart, Ward and Fernandez",Mobile,No,601.0
+1302,481,Current,72978.41,2023-01-11,Dormant,"Perry, Baker and Collins",nan,Y,484.0
+1303,499,Current,66255.95,2022-09-23,Unknown,Jimenez-Gaines,Branch,No,585.0
+1304,53,Loan,76188.07,2023-12-30,Active,Wade LLC,Online,N,547.0
+1305,229,Loan,,2020-09-12,Dormant,Powell and Sons,Online,No,537.0
+1306,485,nan,49440.2,2026-02-17,Unknown,Greene Group,Online,No,705.0
+1307,48,Current,44822.15,2020-07-16,Unknown,Key Group,Branch,No,787.0
+1308,367,Savings,1705.81,2021-12-29,Dormant,Daniel Group,Mobile,No,451.0
+1309,90,Savings,56985.12,2025-02-08,Active,"Quinn, Oliver and Christian",Branch,N,497.0
+1310,131,Loan,22183.66,2020-04-29,Active,Smith-Malone,Branch,N,865.0
+1311,321,nan,8651.93,2023-11-05,Unknown,Heath Inc,Branch,Yes,468.0
+1312,165,Current,,2023-05-30,Unknown,"Henson, Dennis and Santiago",nan,No,682.0
+1313,434,Savings,10916.77,2025-11-03,Dormant,Sanchez-Nichols,nan,Yes,773.0
+1314,52,nan,87294.84,2023-01-19,Dormant,Kennedy Ltd,Mobile,N,420.0
+1315,192,Current,77029.58,,Closed,Stanley Inc,Online,Yes,855.0
+1316,384,nan,4403.39,2022-06-24,Unknown,Mccullough Inc,nan,No,324.0
+1317,70,Savings,95937.22,2024-01-16,Active,Roberts-Rodriguez,Branch,N,567.0
+1318,276,Savings,8660.75,2024-03-21,Dormant,"Hammond, Vega and Meyer",Mobile,N,739.0
+1319,480,Current,55619.39,2021-04-16,Dormant,Wells Inc,Branch,Y,304.0
+1320,13,Loan,16444.47,2025-06-04,Unknown,Garcia-Kane,nan,Yes,435.0
+1321,453,Savings,29650.77,2024-09-24,Active,Arnold Inc,nan,N,738.0
+1322,327,Loan,20478.17,2023-08-19,Closed,Cole and Sons,Mobile,Yes,811.0
+1323,0,Current,47704.54,2024-10-25,Active,Smith Inc,Branch,Y,572.0
+1324,484,Loan,62970.57,2022-05-17,Dormant,"Elliott, Davidson and Peterson",Online,N,315.0
+1325,276,Savings,63583.16,2025-05-14,Dormant,Trujillo Inc,Online,No,850.0
+1326,135,Loan,47530.56,2021-11-28,Unknown,Nash Group,Online,N,703.0
+1327,251,Loan,698.34,2025-02-14,Closed,"Lindsey, Williams and Harris",Online,Y,514.0
+1328,111,Current,64964.09,2020-07-29,Dormant,"Martin, Holmes and Hoffman",Online,N,860.0
+1329,476,Current,51368.78,2023-06-23,Active,Best PLC,nan,No,425.0
+1330,254,Savings,57140.99,2021-10-25,Closed,"Kim, Bennett and Williams",Online,N,575.0
+1331,28,Savings,95507.58,2020-12-23,Closed,Smith LLC,Branch,Yes,632.0
+1332,36,nan,42922.37,2022-01-27,Unknown,Underwood-Rodriguez,Branch,No,847.0
+1333,3,Loan,48851.34,2024-11-17,Active,Braun Group,Mobile,N,590.0
+1334,407,Current,33611.37,2025-09-14,Dormant,"Lindsey, Goodwin and Thompson",nan,N,603.0
+1335,430,Savings,17651.0,2021-06-17,Unknown,Kim-Hill,nan,Y,478.0
+1336,484,Current,82226.61,2020-05-10,Unknown,Ramirez-Hale,nan,N,356.0
+1337,441,nan,8790.97,2022-10-05,Dormant,"Cross, Marquez and Rivera",Online,Y,356.0
+1338,56,nan,3230.65,2021-02-08,Unknown,Bartlett-Allen,Online,N,641.0
+1339,200,Savings,88276.1,2022-03-08,Closed,Miller Inc,Online,Yes,353.0
+1340,250,nan,4555.77,2025-11-18,Active,Morton-Williams,Mobile,N,553.0
+1341,357,Loan,68137.4,2021-08-08,Dormant,Johnson LLC,nan,Y,336.0
+1342,48,Current,276.37,2022-12-12,Dormant,Acosta and Sons,Online,N,724.0
+1343,480,Loan,40892.21,2023-01-26,Closed,"Hickman, Lopez and Roy",Mobile,Y,673.0
+1344,92,Loan,,2026-01-13,Active,"Wilson, Obrien and Jones",Branch,No,813.0
+1345,110,nan,69104.99,2025-12-26,Active,Bowen-Parsons,nan,No,865.0
+1346,61,Loan,9783.07,2025-08-22,Dormant,Russell Inc,Branch,No,794.0
+1347,251,nan,67577.2,2022-12-28,Unknown,"Brown, Chavez and Pugh",Online,Yes,870.0
+1348,425,Loan,48766.14,2021-07-13,Active,"Williams, Smith and Key",Online,N,665.0
+1349,437,Savings,29014.64,2024-01-24,Active,Mcgrath-Stafford,Branch,N,767.0
+1350,375,Current,81182.94,,Closed,Davis Inc,Online,N,
+1351,48,Savings,35252.2,2023-01-29,Unknown,Bentley and Sons,Mobile,Yes,333.0
+1352,44,Current,81315.18,2025-05-14,Dormant,"Mckenzie, Davis and Harper",Online,N,332.0
+1353,45,Loan,42924.48,2020-05-13,Closed,Taylor-Welch,Online,Y,754.0
+1354,344,nan,70147.85,2025-02-03,Dormant,"Taylor, Reeves and Burns",Online,N,627.0
+1355,230,nan,,2021-05-13,Active,Carter PLC,nan,N,313.0
+1356,401,nan,47936.56,2021-03-11,Active,Juarez PLC,Mobile,N,891.0
+1357,253,Loan,17759.73,2021-10-29,Closed,Neal-Cameron,Branch,No,786.0
+1358,394,Current,23055.59,2022-06-19,Closed,Johnston LLC,Online,No,722.0
+1359,58,Savings,6530.25,2021-12-13,Active,Brown Inc,Branch,No,532.0
+1360,371,nan,42024.11,2025-06-20,Dormant,"Duncan, Marks and Sanchez",Mobile,Yes,655.0
+1361,495,nan,6640.94,2022-12-31,Unknown,"Garcia, Newton and Romero",nan,Y,331.0
+1362,206,Current,33044.48,2020-02-24,Closed,Stevens Inc,nan,N,769.0
+1363,482,nan,20402.1,2023-04-11,Dormant,"Young, Parker and Harrington",Branch,Y,831.0
+1364,352,Current,81805.69,2025-01-01,Active,Haas Inc,Mobile,N,695.0
+1365,65,Current,72215.56,2024-05-27,Unknown,"Lopez, Gordon and Clark",Branch,Yes,590.0
+1366,302,nan,31354.0,2020-12-02,Closed,Elliott-Moreno,nan,Y,401.0
+1367,181,Savings,90970.98,2020-05-05,Active,Quinn-Parker,Online,Yes,330.0
+1368,388,Current,94955.24,2022-11-17,Unknown,Frank LLC,Branch,N,491.0
+1369,148,Current,35677.17,2021-03-08,Dormant,Pope and Sons,Mobile,Y,461.0
+1370,302,Savings,42603.04,2020-12-01,Active,Martinez-Gallagher,Mobile,No,608.0
+1371,435,nan,87194.68,2023-04-24,Dormant,Randall Group,Branch,Y,713.0
+1372,2,Loan,14935.52,2023-09-02,Active,Lee-Mcfarland,Mobile,Y,362.0
+1373,476,Loan,,2024-09-02,Dormant,Wilson-Phillips,Mobile,Yes,489.0
+1374,208,Current,43202.44,2025-06-14,Unknown,Moody-Turner,Mobile,Yes,301.0
+1375,343,Current,90996.33,2021-09-17,Closed,Thompson Inc,Mobile,Yes,794.0
+1376,84,nan,3272.71,2023-02-20,Closed,"Morgan, Perkins and Smith",Online,No,844.0
+1377,161,nan,1462.71,2023-11-18,Unknown,"Nelson, Hudson and King",Online,Yes,752.0
+1378,91,Loan,14925.84,2023-01-17,Dormant,Hays-Cruz,nan,No,680.0
+1379,193,nan,62321.98,2024-07-01,Dormant,"Smith, Vazquez and Church",Online,No,730.0
+1380,479,Savings,54140.83,2021-05-15,Unknown,Mcdaniel PLC,Online,Y,565.0
+1381,186,nan,40062.27,2024-01-03,Unknown,Richardson PLC,Online,N,428.0
+1382,333,Savings,44397.49,2020-11-06,Dormant,Brown Ltd,Mobile,Y,550.0
+1383,62,Savings,52956.74,2020-05-22,Unknown,Hernandez Group,Online,No,514.0
+1384,103,Current,14595.87,2025-05-29,Dormant,Clark and Sons,Mobile,N,302.0
+1385,202,nan,43227.97,,Dormant,Garcia-Green,Branch,Y,399.0
+1386,56,nan,85660.51,2021-03-22,Closed,Mueller-Snyder,Branch,No,601.0
+1387,452,Savings,66197.1,2026-02-01,Unknown,Reese and Sons,nan,Yes,871.0
+1388,150,Loan,83541.46,2024-02-28,Unknown,Clark-Kelly,Branch,No,379.0
+1389,272,Loan,3923.39,2020-11-17,Unknown,Hall Group,nan,Yes,746.0
+1390,334,Current,77930.66,2022-06-28,Closed,Berg LLC,Online,No,406.0
+1391,427,Savings,1344.38,2024-12-09,Active,Moon and Sons,nan,Y,553.0
+1392,142,Savings,,2023-01-17,Active,"Gonzalez, Alvarado and Mooney",Branch,No,816.0
+1393,328,Savings,78089.95,2023-08-04,Active,Hicks-Bishop,Mobile,No,845.0
+1394,312,nan,70782.2,2023-11-25,Active,Cruz Group,Branch,No,379.0
+1395,111,Current,9628.01,2024-03-03,Unknown,"Nelson, Brown and Johnson",Mobile,Y,523.0
+1396,46,Current,53370.92,2020-05-28,Unknown,Lee-Williams,nan,Y,861.0
+1397,273,Current,52133.0,2020-04-02,Closed,Gentry-Garcia,Branch,Y,401.0
+1398,75,Current,73641.26,2022-10-24,Dormant,"Morton, Campbell and Holder",Branch,No,768.0
+1399,264,Loan,39899.72,2021-05-08,Unknown,"Ball, Brown and Lee",Online,Yes,815.0
+1400,99,nan,50440.56,2023-11-07,Unknown,Hanson LLC,nan,Yes,
+1401,470,Current,65942.77,2020-11-05,Dormant,"Morales, Parker and Zuniga",nan,Y,594.0
+1402,79,Current,37808.21,2021-10-28,Closed,"Knight, Bailey and Hale",nan,Yes,774.0
+1403,434,nan,6748.12,2025-09-13,Unknown,Smith and Sons,Branch,Yes,642.0
+1404,274,Current,28164.32,2025-01-24,Dormant,"Ortiz, Reynolds and Park",Online,Y,466.0
+1405,189,Savings,26529.23,2025-07-12,Closed,Stewart Inc,nan,N,317.0
+1406,77,Loan,45314.77,2021-02-28,Closed,Allen LLC,nan,Y,415.0
+1407,389,Current,51584.82,2020-04-04,Active,"Davis, Holmes and Davis",Online,No,300.0
+1408,412,Savings,60852.43,2025-04-16,Unknown,Reid PLC,Online,Yes,831.0
+1409,494,Savings,29315.21,2024-12-20,Active,Shelton-Johnson,Online,Yes,582.0
+1410,208,Current,59260.61,2025-09-24,Active,Golden-Lopez,Online,N,699.0
+1411,377,Savings,18830.94,2024-04-30,Unknown,"Smith, Howard and Harris",nan,Y,371.0
+1412,283,nan,33544.22,2022-06-16,Unknown,Odonnell-Miller,Online,N,615.0
+1413,68,nan,35157.29,2022-01-14,Dormant,Robles-Levy,Mobile,No,376.0
+1414,432,Savings,94075.73,2023-05-10,Dormant,"Morgan, Ball and Rice",nan,Yes,453.0
+1415,148,Loan,53504.15,2021-06-16,Unknown,Rodriguez LLC,Mobile,N,325.0
+1416,57,Savings,66569.89,2022-04-01,Dormant,Williams PLC,nan,No,843.0
+1417,371,Current,,2020-02-14,Dormant,"Espinoza, Lee and Thomas",nan,N,827.0
+1418,122,Current,4368.07,2021-10-13,Dormant,Herrera PLC,nan,No,545.0
+1419,228,Loan,8338.17,2022-08-14,Active,Johnson Inc,Online,Yes,871.0
+1420,2,Current,53084.49,,Dormant,Jones Group,nan,No,602.0
+1421,154,Current,70345.53,2022-01-02,Active,"Rodriguez, Pope and Brown",Mobile,Yes,810.0
+1422,44,Current,,2024-02-06,Dormant,Garcia Group,Mobile,No,306.0
+1423,85,Savings,28548.72,2021-04-24,Unknown,"Gonzalez, Welch and Ramsey",nan,Y,478.0
+1424,326,Current,51968.02,2026-01-15,Closed,Valencia-Mcfarland,Branch,No,422.0
+1425,360,Loan,12739.25,2024-09-27,Dormant,"Montgomery, Tapia and Weaver",Online,Y,339.0
+1426,412,Current,22242.96,2020-07-10,Active,Bautista-Bowman,Branch,No,365.0
+1427,368,nan,16288.78,2022-11-24,Closed,Hudson-Kane,nan,No,840.0
+1428,95,Loan,87163.46,2022-05-05,Closed,"Reed, Hernandez and Thomas",Online,Y,851.0
+1429,77,Current,55542.29,2021-10-13,Unknown,Watts PLC,Branch,N,352.0
+1430,449,Current,90482.44,2025-05-08,Active,Thompson Group,Mobile,Yes,404.0
+1431,197,Savings,26462.1,2023-09-08,Closed,Knapp Inc,nan,N,481.0
+1432,309,Savings,84341.2,2024-06-10,Active,Jones PLC,Branch,Y,342.0
+1433,269,Savings,91519.27,2022-04-21,Unknown,"Giles, Kelly and Schmidt",Mobile,Y,758.0
+1434,414,nan,18243.44,2022-06-18,Dormant,"English, Wilson and Conway",Branch,Yes,380.0
+1435,481,Savings,244.92,2021-08-05,Active,Montoya Ltd,Mobile,N,550.0
+1436,51,Savings,64186.44,2022-01-23,Unknown,Harris-Sims,Online,N,655.0
+1437,28,Current,,2023-09-21,Active,"Sanders, Payne and Martinez",Branch,No,491.0
+1438,19,Savings,58420.74,2024-11-26,Dormant,"Brandt, Hernandez and Robinson",nan,N,539.0
+1439,78,Current,4275.03,2021-10-01,Active,Franco and Sons,Online,No,450.0
+1440,100,nan,43542.33,2020-04-07,Active,Perry LLC,Online,N,544.0
+1441,292,Loan,80443.25,2023-10-01,Unknown,Bautista-Owens,Branch,No,499.0
+1442,58,nan,,2021-03-02,Closed,"Solis, Ball and Mejia",nan,N,549.0
+1443,249,Current,,2025-10-30,Unknown,"Reese, Lee and Hall",Online,No,335.0
+1444,174,Savings,53473.52,2022-05-01,Closed,Duffy-Taylor,nan,N,395.0
+1445,173,Loan,38871.95,2023-07-05,Unknown,Davis Inc,Branch,Y,486.0
+1446,371,nan,3141.15,2025-11-18,Unknown,Glass-Mitchell,nan,No,374.0
+1447,122,nan,92884.73,2024-09-13,Active,"Yates, Stone and Bautista",Mobile,No,446.0
+1448,184,nan,24106.34,2022-04-28,Closed,"Robinson, Mullen and Taylor",Branch,Yes,537.0
+1449,193,nan,1393.22,2021-05-21,Active,Walton-Gibbs,nan,N,634.0
+1450,494,Current,68944.73,2023-05-14,Active,Taylor-Oconnell,Mobile,N,
+1451,162,Current,95996.87,2020-03-27,Unknown,Jacobs Inc,nan,Y,835.0
+1452,63,nan,67398.65,2024-01-24,Dormant,White PLC,nan,Yes,840.0
+1453,104,Savings,86760.48,2022-12-01,Active,Phillips PLC,Online,Y,306.0
+1454,374,Current,93979.84,2022-03-09,Active,Parsons-Wilson,Mobile,N,489.0
+1455,83,nan,23607.67,,Dormant,Cohen Group,nan,No,863.0
+1456,161,nan,85787.94,2022-04-16,Closed,Jordan-Robertson,Mobile,N,396.0
+1457,232,Loan,69498.29,2023-04-02,Closed,Bailey Group,Mobile,Y,885.0
+1458,423,Loan,75126.85,2021-10-19,Active,Lawrence LLC,Online,Y,818.0
+1459,475,Current,86446.26,2022-11-19,Unknown,Thompson-Bartlett,Online,Yes,350.0
+1460,343,Current,39270.9,2024-02-12,Unknown,"Vang, Ortiz and Skinner",Mobile,No,794.0
+1461,190,Savings,61797.55,2025-12-02,Dormant,"Choi, Turner and Jefferson",Online,N,764.0
+1462,92,Loan,42762.68,2021-12-28,Active,Ferguson PLC,nan,No,809.0
+1463,132,Loan,64029.49,2025-05-03,Unknown,Lowery-Morse,nan,N,466.0
+1464,497,Loan,21912.11,2021-02-06,Dormant,"Figueroa, Mcfarland and Evans",Mobile,Yes,723.0
+1465,11,Savings,35984.6,2025-05-31,Active,Harris-Rocha,Mobile,No,414.0
+1466,380,Savings,43743.5,2024-08-03,Unknown,Smith-Simpson,Online,Yes,778.0
+1467,40,Loan,89352.09,2022-10-07,Closed,"Taylor, Reilly and Bowers",Mobile,No,858.0
+1468,298,Loan,85377.03,2024-05-14,Closed,"Murillo, Montoya and Sullivan",Mobile,Y,678.0
+1469,442,Loan,35475.22,2024-11-28,Closed,Elliott PLC,Mobile,Y,632.0
+1470,332,Loan,90746.46,2020-10-03,Unknown,"Sanders, Carpenter and Chambers",Online,No,778.0
+1471,334,Current,60091.35,2025-02-19,Unknown,Thompson-Harris,Mobile,N,856.0
+1472,351,Current,74780.14,2022-05-18,Closed,"Pace, Bass and Brown",Online,Y,332.0
+1473,362,Current,36334.3,2023-05-27,Closed,"Estrada, Hudson and Ward",Online,Yes,750.0
+1474,110,Current,82902.57,2020-05-21,Active,Wilson Group,Mobile,No,667.0
+1475,176,Current,41054.14,2022-07-24,Closed,Barr-Sanchez,Branch,Yes,408.0
+1476,331,Savings,5223.43,2022-02-22,Unknown,"Orozco, Stewart and Rivera",Online,Y,417.0
+1477,161,Savings,56145.86,2022-04-10,Dormant,Underwood Ltd,Mobile,Y,808.0
+1478,481,Current,65826.3,2022-09-14,Active,Pierce Inc,Mobile,No,764.0
+1479,240,Loan,90467.15,2021-03-25,Closed,"Miles, Park and Dunn",Online,Y,893.0
+1480,7,Savings,19614.48,2023-04-09,Closed,"Hernandez, Lang and Morrison",Branch,No,695.0
+1481,128,Loan,21783.93,2023-04-13,Unknown,Garza Group,Mobile,No,763.0
+1482,302,nan,50120.15,2025-04-01,Closed,"Costa, Perez and Schmidt",Online,Yes,543.0
+1483,140,Loan,43420.26,2024-06-20,Closed,Beard-Myers,nan,Y,314.0
+1484,97,Current,65491.24,2024-08-13,Unknown,"Wilson, Melton and Harrington",Branch,Y,683.0
+1485,318,Savings,19616.05,2024-10-11,Active,"Foster, Sanchez and Contreras",Online,No,613.0
+1486,376,Loan,67071.57,2022-10-09,Unknown,Miller-Mullins,nan,N,467.0
+1487,8,Loan,84029.18,2021-03-12,Active,Campos-Bryan,Branch,Yes,740.0
+1488,300,nan,69199.35,2024-09-17,Dormant,"Jones, Mueller and Patterson",Mobile,Yes,861.0
+1489,259,Loan,88631.45,2024-10-25,Active,Smith Inc,Mobile,Yes,829.0
+1490,456,nan,10599.37,,Dormant,"Wells, Luna and Price",Branch,Y,605.0
+1491,384,Loan,23038.97,2025-04-23,Unknown,"Young, Ellis and Meyer",Online,Y,562.0
+1492,416,Current,93908.2,2020-09-24,Closed,"Hall, Small and Burnett",nan,Y,617.0
+1493,173,Current,94429.64,2025-02-12,Closed,"Ali, Barrera and Sanchez",Mobile,Yes,665.0
+1494,98,Current,4946.94,2021-10-27,Unknown,Hogan Ltd,Mobile,Yes,725.0
+1495,181,Savings,22235.68,2024-05-19,Closed,Torres LLC,Mobile,No,697.0
+1496,243,Current,83557.94,2022-12-03,Unknown,Patrick-Nelson,nan,Yes,779.0
+1497,23,Current,74861.92,2023-07-02,Unknown,Fletcher-Goodman,Mobile,N,621.0
+1498,119,Current,34267.76,2020-11-15,Closed,Allen-Morrison,nan,No,635.0
+1499,115,nan,82756.5,2023-07-16,Unknown,"Wilson, Walker and Mcmillan",Online,Y,423.0
