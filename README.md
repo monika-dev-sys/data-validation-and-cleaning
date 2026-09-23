@@ -27,7 +27,7 @@ data_cleaning.py :contains the cleaning and validation logic
 
 ## Technologies Used
 
-Python
+Python /
 Pandas
 Pandera
 NumPy
